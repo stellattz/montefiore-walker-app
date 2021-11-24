@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://vh-wgv.stellattz.walkerapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.vh-wgv.stellattz.walkerapp.exp.direct",
+  "ngrokPid": 710,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
